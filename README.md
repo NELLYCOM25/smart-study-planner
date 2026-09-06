@@ -1,11 +1,4 @@
 # Smart Study Planner
-
-## Programming Fundamentals Coursework
-
-**Module:** 1203 ST - Programming Fundamentals
-**Project:** The Smart Study Planner
-**Progr
-
 ## Description
 
 The Smart Study Planner is a console-based Python program designed to help a student record, review and analyse study sessions across different subjects during a semester.
