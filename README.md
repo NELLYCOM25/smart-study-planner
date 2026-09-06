@@ -4,7 +4,7 @@
 
 **Module:** 1203 ST - Programming Fundamentals
 **Project:** The Smart Study Planner
-**Programming Language:** Python
+**Progr
 
 ## Description
 
